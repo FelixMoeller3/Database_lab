@@ -1,0 +1,1 @@
+select article from article;
