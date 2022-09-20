@@ -3,6 +3,7 @@
 ## 1. Visual-mondial
 Querying the mondial database and visualizing the output. To make this project work locally one needs to install postgresql,
 download the mondial database and connect to it locally.
+![Visual-mondial example](./resources/Visual_mondial_demo.png)
 ## 2. Views and triggers
 Implementation of an API for a webshop. To run this project locally, one needs to install postgresql and create an (empty)
 database called "shop" and a user called "admin" with the password "admin".
